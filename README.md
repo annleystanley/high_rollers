@@ -70,3 +70,5 @@ This project aims to do a deep-dive into the rolling habits of regular cast memb
     -   D20s (20-sided dice) are the most commonly used
 -   **Box of Doom**
     -   a mechanic unique to Dimension 20 where important rolls are done in the 'Box of Doom' to heighten tension
+-   **Advantage & Disadvantage**
+    -   Rolling with advantage, a player may roll two dice and choose the higher number; with disadvantage they must choose the lower number
