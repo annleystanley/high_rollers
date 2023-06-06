@@ -22,4 +22,9 @@
 -   It appears that there were no Nat 1s in ASO (A Starstruck Odyssey), which feels unlikely
 -   It does appear that some players have more extreme rolls than others
 -   Data does not take into account total # of rolls per season, whether rolls were made with advantage/disadvantage, etc.
--   
+-   Need to tally totals across all campaigns, but overall there does seem to be a fairly even spread amongst players (which makes sense statistically)
+-   Might need to adjust search terms within the code to make sure all critical successes and fails are found (e.g. making sure phrases like 'I crit' are included)
+-   Would also be interesting to go and see the context for every critical success/failure to see the importance of each roll (e.g. rolling a critical success in a minor social interaction vs on an important attack against an enemy)
+
+## Project Update June 6/23
+-   Initially put this project on hold after being approached by some fellow fans about working on something similar; unfortunately that project did not come into fruition so I will be continuing this on my own!
